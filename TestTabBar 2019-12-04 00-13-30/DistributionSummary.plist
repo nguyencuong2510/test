@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>TestTabBar.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B7B328C4BDF831C64A54168534E454C000A7793D</string>
+				<key>dateExpires</key>
+				<string>10/14/20</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B7B328C4BDF831C64A54168534E454C000A7793D</string>
+						<key>dateExpires</key>
+						<string>10/14/20</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>SDWebImage.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>VDATS2449G</string>
+						<key>name</key>
+						<string>Nguyen Van Cuong</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B7B328C4BDF831C64A54168534E454C000A7793D</string>
+						<key>dateExpires</key>
+						<string>10/14/20</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>youtube_ios_player_helper.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>VDATS2449G</string>
+						<key>name</key>
+						<string>Nguyen Van Cuong</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>VDATS2449G.com.rosao.test</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>VDATS2449G</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>VDATS2449G.com.rosao.test</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>TestTabBar.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4c4045ef-44e1-472c-84d0-3bc6ee91a5c9</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>VDATS2449G</string>
+				<key>name</key>
+				<string>Nguyen Van Cuong</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
